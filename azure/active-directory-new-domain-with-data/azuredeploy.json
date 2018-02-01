@@ -192,7 +192,7 @@
       "metadata": {
         "description": "The location of resources such as templates and DSC modules that the script is dependent"
       },
-      "defaultValue": "https://github.com/pipek86/PS/azure/active-directory-new-domain-with-data/"
+      "defaultValue": "https://raw.githubusercontent.com/pipek86/PS/master/azure/active-directory-new-domain-with-data/"
     }
   },
   "variables": {
